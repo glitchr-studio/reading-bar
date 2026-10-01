@@ -5,8 +5,8 @@
   "main": "src/index.js",
   "access": "public",
   "repository": {
-    "url": "ssh://git@gitlab.glitchr.dev:public-repository/javascript/reading-bar.git",
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/glitchr-studio/reading-bar.git"
   },
   "author": "Marco Meyer <marco.meyer@glitchr.io>",
   "license": "LGPL-3.0-or-later",
